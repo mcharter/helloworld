@@ -3,3 +3,10 @@
 This is a test.
 ## Section 2
 This is the second test.
+## Bullets
+
+* These are bullets
+* Auto bullet 2
+* Auto bullet 3
+
+No more bullets.
