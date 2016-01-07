@@ -9,4 +9,3 @@ This is the second test.
 * Auto bullet 2
 * Auto bullet 3
 
-No more bullets.
